@@ -1,0 +1,143 @@
+[[minify]]
+arch = "aarch64"
+git-tree-sha1 = "bffc9d9bf9e70ff7639bc032f43d8dbbcc425375"
+os = "macos"
+
+    [[minify.download]]
+    sha256 = "01b908a8430f2f872dce1ce88526fc7b1294da9ceb74999cd54d280f8059da36"
+    url = "https://github.com/JuliaBinaryWrappers/minify_jll.jl/releases/download/minify-v2.12.7+0/minify.v2.12.7.aarch64-apple-darwin.tar.gz"
+[[minify]]
+arch = "aarch64"
+git-tree-sha1 = "f903e96c852dee1263d2c4a7692cfd347c1b9e7b"
+libc = "glibc"
+os = "linux"
+
+    [[minify.download]]
+    sha256 = "ecd6bfd88b45613d12647d9763eefeb5c8775b9052bcd71df82c13fffb1d7432"
+    url = "https://github.com/JuliaBinaryWrappers/minify_jll.jl/releases/download/minify-v2.12.7+0/minify.v2.12.7.aarch64-linux-gnu.tar.gz"
+[[minify]]
+arch = "aarch64"
+git-tree-sha1 = "f903e96c852dee1263d2c4a7692cfd347c1b9e7b"
+libc = "musl"
+os = "linux"
+
+    [[minify.download]]
+    sha256 = "ecd6bfd88b45613d12647d9763eefeb5c8775b9052bcd71df82c13fffb1d7432"
+    url = "https://github.com/JuliaBinaryWrappers/minify_jll.jl/releases/download/minify-v2.12.7+0/minify.v2.12.7.aarch64-linux-musl.tar.gz"
+[[minify]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "35ffe668ea32be5f520bc15345f8cf4528e35dfb"
+libc = "glibc"
+os = "linux"
+
+    [[minify.download]]
+    sha256 = "c1414dbe1271e6733e060ca27273dfd5d4600c2d29a7584f390da36f31c2ee29"
+    url = "https://github.com/JuliaBinaryWrappers/minify_jll.jl/releases/download/minify-v2.12.7+0/minify.v2.12.7.armv6l-linux-gnueabihf.tar.gz"
+[[minify]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "35ffe668ea32be5f520bc15345f8cf4528e35dfb"
+libc = "musl"
+os = "linux"
+
+    [[minify.download]]
+    sha256 = "c1414dbe1271e6733e060ca27273dfd5d4600c2d29a7584f390da36f31c2ee29"
+    url = "https://github.com/JuliaBinaryWrappers/minify_jll.jl/releases/download/minify-v2.12.7+0/minify.v2.12.7.armv6l-linux-musleabihf.tar.gz"
+[[minify]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "93a39389ac1623fe25f27e29b1ace176d37de1b1"
+libc = "glibc"
+os = "linux"
+
+    [[minify.download]]
+    sha256 = "1128fe4b39a1ad651e497746deb5cd97ca02b82a9720bf72a3caa0c730f847bf"
+    url = "https://github.com/JuliaBinaryWrappers/minify_jll.jl/releases/download/minify-v2.12.7+0/minify.v2.12.7.armv7l-linux-gnueabihf.tar.gz"
+[[minify]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "93a39389ac1623fe25f27e29b1ace176d37de1b1"
+libc = "musl"
+os = "linux"
+
+    [[minify.download]]
+    sha256 = "1128fe4b39a1ad651e497746deb5cd97ca02b82a9720bf72a3caa0c730f847bf"
+    url = "https://github.com/JuliaBinaryWrappers/minify_jll.jl/releases/download/minify-v2.12.7+0/minify.v2.12.7.armv7l-linux-musleabihf.tar.gz"
+[[minify]]
+arch = "i686"
+git-tree-sha1 = "6b287af9ceb5786e068f8ad1bd599ec5a860a91b"
+libc = "glibc"
+os = "linux"
+
+    [[minify.download]]
+    sha256 = "727d89d9c98668bb56edde76e77cc929e6681a9fa17994517fef0cc8feb230c7"
+    url = "https://github.com/JuliaBinaryWrappers/minify_jll.jl/releases/download/minify-v2.12.7+0/minify.v2.12.7.i686-linux-gnu.tar.gz"
+[[minify]]
+arch = "i686"
+git-tree-sha1 = "6b287af9ceb5786e068f8ad1bd599ec5a860a91b"
+libc = "musl"
+os = "linux"
+
+    [[minify.download]]
+    sha256 = "727d89d9c98668bb56edde76e77cc929e6681a9fa17994517fef0cc8feb230c7"
+    url = "https://github.com/JuliaBinaryWrappers/minify_jll.jl/releases/download/minify-v2.12.7+0/minify.v2.12.7.i686-linux-musl.tar.gz"
+[[minify]]
+arch = "i686"
+git-tree-sha1 = "538db570c4d9a3bc2cb19e9eb8806847c6b4c714"
+os = "windows"
+
+    [[minify.download]]
+    sha256 = "e81d86087df14533da343ff189e885c49136fb8053d41b28b8c75aef2bd75267"
+    url = "https://github.com/JuliaBinaryWrappers/minify_jll.jl/releases/download/minify-v2.12.7+0/minify.v2.12.7.i686-w64-mingw32.tar.gz"
+[[minify]]
+arch = "powerpc64le"
+git-tree-sha1 = "e94a639fd674b2b5767f2c601d03baea7fd86706"
+libc = "glibc"
+os = "linux"
+
+    [[minify.download]]
+    sha256 = "37f4fe006c02c463fd710a46ab7defdf2d0d5569fa40674f4c0b135fae26cbeb"
+    url = "https://github.com/JuliaBinaryWrappers/minify_jll.jl/releases/download/minify-v2.12.7+0/minify.v2.12.7.powerpc64le-linux-gnu.tar.gz"
+[[minify]]
+arch = "x86_64"
+git-tree-sha1 = "73afde99ae9a0ef9ffe993bd8a20dfaf5b09a0cc"
+os = "macos"
+
+    [[minify.download]]
+    sha256 = "fb450f135be3571196da254d7c0102dc01b42d610b4cfbce0e5c173a23cf5a1f"
+    url = "https://github.com/JuliaBinaryWrappers/minify_jll.jl/releases/download/minify-v2.12.7+0/minify.v2.12.7.x86_64-apple-darwin.tar.gz"
+[[minify]]
+arch = "x86_64"
+git-tree-sha1 = "87022d740f7a223ea356aeb606212d8b862d8b37"
+libc = "glibc"
+os = "linux"
+
+    [[minify.download]]
+    sha256 = "0b8d3b05e7155eaf210fc0fe3e2785768092a545ec83016d86beb0dbf8c6df90"
+    url = "https://github.com/JuliaBinaryWrappers/minify_jll.jl/releases/download/minify-v2.12.7+0/minify.v2.12.7.x86_64-linux-gnu.tar.gz"
+[[minify]]
+arch = "x86_64"
+git-tree-sha1 = "017464202c1d8437564bf2db15628af18055d121"
+libc = "musl"
+os = "linux"
+
+    [[minify.download]]
+    sha256 = "6f7bfb745c4fbdd24c1cd3da5d606c1d33b257e3b263e94163b10e33d35668fd"
+    url = "https://github.com/JuliaBinaryWrappers/minify_jll.jl/releases/download/minify-v2.12.7+0/minify.v2.12.7.x86_64-linux-musl.tar.gz"
+[[minify]]
+arch = "x86_64"
+git-tree-sha1 = "b67e2354b8f7d5308fb75bbabff92f5cf43e63e0"
+os = "freebsd"
+
+    [[minify.download]]
+    sha256 = "357d2a98ea7ba10e2f5be86dc95e66d53e7c1bed15e5429ff8261c76fea8358f"
+    url = "https://github.com/JuliaBinaryWrappers/minify_jll.jl/releases/download/minify-v2.12.7+0/minify.v2.12.7.x86_64-unknown-freebsd.tar.gz"
+[[minify]]
+arch = "x86_64"
+git-tree-sha1 = "83ee7b5f63790296483a809801fdd2af43ec6eb3"
+os = "windows"
+
+    [[minify.download]]
+    sha256 = "1fe0a7fba279855c33d539126c6a334deebb8d774daa244958ff379ecd3af8e7"
+    url = "https://github.com/JuliaBinaryWrappers/minify_jll.jl/releases/download/minify-v2.12.7+0/minify.v2.12.7.x86_64-w64-mingw32.tar.gz"
